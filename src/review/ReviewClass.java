@@ -5,7 +5,5 @@ public class ReviewClass {
 
 	}
 	
-	public void test() {
-		System.out.println("reviewSession");
 	}
 }
